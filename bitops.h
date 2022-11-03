@@ -1,0 +1,24 @@
+#include<stdio.h>
+int set(int a,int k);
+int clear(int a,int k);
+int setandclear(int a,int k,int l);
+int setoffsetlength(int a,int k,int l);
+int clearoffsetlength(int a,int k,int l);
+int toggleoffsetlength(int a,int k,int l);
+int rotate(int a,int k,int l);
+int reverse(int a);
+int calbitlength(int a);
+int countbits(int a);
+int calparity(int a);
+int trailingzeroes(int a);
+int swapnibble(int a);
+int copybits(int a,int k,int l);
+int divideby2(int a);
+int multiplyby2(int a);
+int searchpatten(int a);
+int convertendian(int a);
+int logbase2(int a);
+int scale8to16(int a);
+int absolutevalue(int a);
+int display(int a);
+int revdisplay(int a);
